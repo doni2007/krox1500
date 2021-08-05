@@ -1,0 +1,13 @@
+@media(max-width:570px){
+    .content{
+        justify-content: space-evenly;
+    }
+    
+    .header__link{
+        margin-left: 15px;
+        margin-right: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
